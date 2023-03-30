@@ -1,0 +1,39 @@
+cd  espacio para abrir carpeta
+clear limpia la terminal 
+mkdir y guion entre palabras
+cd .. es para regresar
+ls buscar carpeta 
+mv  cambiar el nombre
+rm rf borra el directorio
+echo reemplaza el archivo
+cp copiar 
+
+
+
+# ejemplo
+
+Mahalia@Adrians-iMac ~ % ls   
+Desktop		Downloads	Movies		Pictures	practica html
+Documents	Library		Music		Public
+Mahalia@Adrians-iMac ~ % ls desktop
+Nueva carpeta con elementos		decamp-fantastic-fries-logo-white.png
+app in the day				mahalia
+app-in-the-day				pagina de papas
+carpeta sin título			rafa
+Mahalia@Adrians-iMac ~ % cd desktop
+Mahalia@Adrians-iMac desktop % cd app in the day
+cd: too many arguments
+Mahalia@Adrians-iMac desktop % cd "app in the day"
+Mahalia@Adrians-iMac app in the day % mkdir rafa
+Mahalia@Adrians-iMac app in the day % cd rafa
+Mahalia@Adrians-iMac rafa % 
+
+
+Git en la terminal:
+
+Git init ......se inicia un repositorio 
+
+
+
+
+
